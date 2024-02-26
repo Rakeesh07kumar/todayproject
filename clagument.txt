@@ -2,7 +2,7 @@
 
 echo $1
 echo $2
-echo "enter the first name:"
+#echo "enter the first name:"
 #read $1
-echo "enter the second name:"
+#echo "enter the second name:"
 #read $2
